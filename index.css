@@ -1,0 +1,14 @@
+body{
+    background-color:aliceblue;
+    color: blue;
+    text-decoration: double;text-shadow: 2cm;
+}
+.vid{
+    margin: 20px;
+    border-radius: 20px;
+    align-items: center;
+}
+.nik{
+    margin-bottom: 50px;
+}
+
